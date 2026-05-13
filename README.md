@@ -25,13 +25,6 @@ source("https://raw.githubusercontent.com/lbenitesanchez/tamano-muestra-afc-sem/
 
 Este comando descarga y carga automáticamente la función `tamano_muestra_latente()` desde GitHub.
 
-Para que funcione correctamente, debes tener conexión a internet.
-
-> **Nota:** La ruta anterior corresponde a la estructura actual del repositorio, donde el archivo se encuentra dentro de la carpeta `tamano_muestra_latente_github/R/`. Si el repositorio se reorganiza y la carpeta `R/` queda directamente en la raíz, entonces la ruta sería:
->
-> ```r
-> source("https://raw.githubusercontent.com/lbenitesanchez/tamano-muestra-afc-sem/main/R/tamano_muestra_latente.R")
-> ```
 
 ---
 

@@ -20,7 +20,7 @@ El cálculo se realiza a partir de la estructura teórica del modelo:
 Abre R o RStudio en tu computadora y ejecuta el siguiente código:
 
 ```r
-source("https://raw.githubusercontent.com/lbenitesanchez/tamano-muestra-afc-sem/main/tamano_muestra_latente_github/R/tamano_muestra_latente.R")
+source("https://raw.githubusercontent.com/lbenitesanchez/tamano-muestra-afc-sem/refs/heads/main/R/tamano_muestra_latente.R")
 ```
 
 Este comando descarga y carga automáticamente la función `tamano_muestra_latente()` desde GitHub.
